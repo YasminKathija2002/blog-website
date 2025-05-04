@@ -18,16 +18,10 @@ A simple and interactive Blog website built using HTML, CSS, and JavaScript. Thi
 1. Clone the repository or download the ZIP file.
 2. Open `index.html` in your browser to start using the blog.
 
-## Live Demo
-
-Check out the live version of this project:  
-[Your Live Blog Website](https://your-username.github.io/blog-project/)  
-*(Replace "your-username" with your actual GitHub username)*
-
 ## Screenshot
 
-![Blog Website Screenshot](https://github.com/your-username/blog-project/blob/main/screenshot.png)  
-*(Add a screenshot if you'd like. You can upload it to your repository and use the URL as shown above.)*
+![Blog Website Screenshot] https://github.com/YasminKathija2002/blog-screenshort/blob/main/blog.png
+
 
 ## License
 
